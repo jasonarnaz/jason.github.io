@@ -1,0 +1,24 @@
+#arial{
+  font-family: arial;
+  color:blue
+}
+#aqua{
+  background-color: aqua
+}
+#grey{
+  background-color: red:
+  
+  }
+#white{color: white}       
+<h1>This header font is Times New Roman</h1>
+    <h1 id="arial">Use the ID selector on your CSS stylesheet to make this header font Arial! Can you make it purple as well?</h1>
+    <div id="aqua">
+      <p id="grey">This div is aqua, but we used an ID selector to make the background color of this paragraph grey.</p>
+      <p id="white">We also used an ID selector to make this paragraph font white!</p>
+    </div>
+    <div id="yellow">
+      <p id="yellowgreen">This div is yellow, but we used an ID selector to make this paragraph bright green.</p>
+      <p id="courier">We also used an ID selector to change this paragraph font to courier.</p>
+    </div>
+  </body>
+</html>
